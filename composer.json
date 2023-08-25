@@ -10,7 +10,7 @@
     }],
     "require": {
         "php": ">=7.2.5",
-        "laravel/framework": "^7|^8",
+        "laravel/framework": "^7|^8|^9|^10",
         "guzzlehttp/guzzle": "^6.5.5|^7.0.1"
     },
     "autoload": {
